@@ -1,4 +1,5 @@
+import { RankingScoreModel } from "../models/rankingScore";
 
 export interface LoadLastRankingRepository {
-    loadLastRanking: () => 
+    loadLastRanking: () => Promise<RankingScoreModel[]>
 }
