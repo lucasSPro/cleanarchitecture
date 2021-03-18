@@ -1,6 +1,6 @@
 ## História
 
-- Desenvolver uma rota na API do jogo Realm DEFENSE
+- Desenvolver uma rota na API, do jogo Realm DEFENSE
 
 - será possivel obter o resultado do torneio diário
 
