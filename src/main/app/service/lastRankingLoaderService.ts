@@ -1,5 +1,5 @@
-import { RankingScore } from "../../entities";
-import { LastRankingLoader } from "../../usesCases";
+import { RankingScore } from "../../domain/entities";
+import { LastRankingLoader } from "../../domain/usesCases";
 import { RankingUnavailableError } from "../errors";
 import { LoadLastRankingRepository } from "../contracts"
 
